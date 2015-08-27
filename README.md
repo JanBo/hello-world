@@ -7,5 +7,7 @@ When it comes to object oriented languages SmallTalk is by far the best one, too
 
 Have a great day though, I know I will!
 
+The end...
+
 Cheers.
 J
